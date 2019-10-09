@@ -218,5 +218,6 @@
     <Build Include="Production\XMLSchemaCollections\ProductDescriptionSchemaCollection.sql" />
     <Build Include="Sales\XMLSchemaCollections\StoreSurveySchemaCollection.sql" />
     <Build Include="ExtendedProperties.sql" />
+    <Build Include="dbo\Stored Procedures\HelloNottingham.sql" />
   </ItemGroup>
 </Project>
